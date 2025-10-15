@@ -1,0 +1,9 @@
+IT
+CSE
+AIML
+CS
+DS
+ECE
+EEE
+MECH
+
